@@ -16,4 +16,9 @@ import numpy as np
 
 arr = np.load("hSeriesNumSimplified.npy", allow_pickle=True)
 print(arr.shape)
+```
+
+## Citation
+
+If you use this data, please cite the associated publication.
 

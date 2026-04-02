@@ -8,6 +8,7 @@ This repository contains the Hilbert series numerator for the three-Higgs-double
 - Shape: (65, 65, 65, 192)
 - Variables: (s, t, u, q)
 - Coefficients are exact large integers
+- Array dtype may be `object` due to large integer coefficients
 
 ## Usage
 
